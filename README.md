@@ -1,6 +1,5 @@
-# <h3>Créations branche hotfix(bugs)</h3>
+# <h1>Créations branche hotfix(bugs)</h3>
 
-# Branch: main et hotfix(bugs)
+# <h3>Branch: main et hotfix(bugs)</h3>
 
-# New files 
-New files in Front-End folder
+# <h3> New files :</h3> <p>New files in Front-End folder</p>
